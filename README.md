@@ -8,7 +8,7 @@ The project which is the Akan Name Generator, has the first page which introduce
 Use of HTML, CSS and Javascript
 
 ### Links
-https://royrasugu.github.io/akannamegenerator/
+https://royrasugu.github.io/akannamegenerator/project.html
 
 ### Contact
 Contact : Roy Rasugu
