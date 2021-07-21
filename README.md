@@ -20,7 +20,9 @@ Use of Ubuntu, google chrome, visual studio code.
 https://royrasugu.github.io/akannamegenerator/
 ### Technologies Used
 
-HTML, CSS and Javascript
+*HTML
+*CSS
+*Javascript
 ### Contact
 Contact : Roy Rasugu
 
