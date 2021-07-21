@@ -10,6 +10,10 @@ Use of HTML, CSS and Javascript
 ### Links
 https://royrasugu.github.io/akannamegenerator/
 
+### Contact
+Contact : Roy Rasugu
+
+Email : royratchizi@gmail.com
 ### MIT License
 
 Copyright (c) [2021] [ROY MOKUA RASUGU]
