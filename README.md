@@ -1,15 +1,26 @@
 # Akan Name Generator
 ## Author: Roy Mokua Rasugu
+
+I am Roy Rasugu and I'm an upcoming developer. It is a great passion of mine to create nice user interface websites that are appealing both to the user and myself. I plan on doing more for the future.  
 ### Description
 
 The project which is the Akan Name Generator, has the first page which introduces us to the akan culture with a brief history of the akan culture then there is the section that shows us how the website works by inputting the correct date, month and year of birth and producing the akan name according to the day they were born.
 
 ### Project Setup Instructions
-Use of HTML, CSS and Javascript
+Use of Ubuntu, google chrome, visual studio code.
 
+### BDD
+
+
+#### Scenario: go to landing page.
+#### given: then you have choice to see the akan history or go to get you're name.
+#### when: put the inputs of you're birth and gender.
+#### then: it displays you're day of birth and you're akan name
 ### Links
 https://royrasugu.github.io/akannamegenerator/
+### Technologies Used
 
+HTML, CSS and Javascript
 ### Contact
 Contact : Roy Rasugu
 
