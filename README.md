@@ -7,7 +7,7 @@ I am Roy Rasugu and I'm an upcoming developer. It is a great passion of mine to 
 The project which is the Akan Name Generator, has the first page which introduces us to the akan culture with a brief history of the akan culture then there is the section that shows us how the website works by inputting the correct date, month and year of birth and producing the akan name according to the day they were born.
 
 ### Project Setup Instructions
-Use of Ubuntu, google chrome, visual studio code.
+When one clicks on the month, year and date it calculates the day born and with gender being checked, it maps the akan name according to the gender and the day born in Javascript. 
 
 ### BDD
 
