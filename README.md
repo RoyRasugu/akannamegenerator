@@ -1,6 +1,16 @@
-The project is called the akan name generator. I am Roy Mokua Rasugu. This project has a the first landing page that guves us a bit of history on the akna culture and how the website works and afterwards it aims to give you your akan name. The project was done using visual studio code together with html langauge. Here is the link to my project on github pages: https://royrasugu.github.io/akannamegenerator/
+# Akan Name Generator
+## Author: Roy Mokua Rasugu
+### Description
 
-MIT License
+The project which is the Akan Name Generator, has the first page which introduces us to the akan culture with a brief history of the akan culture then there is the section that shows us how the website works by inputting the correct date, month and year of birth and producing the akan name according to the day they were born.
+
+### Project Setup Instructions
+Use of HTML, CSS and Javascript
+
+### Links
+https://royrasugu.github.io/akannamegenerator/
+
+### MIT License
 
 Copyright (c) [2021] [ROY MOKUA RASUGU]
 
