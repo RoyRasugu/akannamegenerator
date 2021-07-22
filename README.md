@@ -23,6 +23,9 @@ https://royrasugu.github.io/akannamegenerator/
 *HTML
 *CSS
 *Javascript
+### Known Bugs
+
+Some putput are not accurate and may display incrorrect information.
 ### Contact
 Contact : Roy Rasugu
 
