@@ -10,10 +10,12 @@ The project which is the Akan Name Generator, has the first page which introduce
 When one clicks on the month, year and date it calculates the day born and with gender being checked, it maps the akan name according to the gender and the day born in Javascript. 
 
 ### BDD
- Scenario: go to landing page.
- given: then you have choice to see the akan history or go to get you're name.
- when: put the inputs of you're birth and gender.
-then: it displays you're day of birth and you're akan name
+
+
+#### Scenario: go to landing page.
+#### given: then you have choice to see the akan history or go to get you're name.
+#### when: put the inputs of you're birth and gender.
+#### then: it displays you're day of birth and you're akan name
 ### Links
 https://royrasugu.github.io/akannamegenerator/
 ### Technologies Used
